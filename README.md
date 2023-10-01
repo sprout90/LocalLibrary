@@ -11,5 +11,5 @@ The focus of this assignment was to demonstrate profiency in advanced JavaScript
 My focus as a student has been purely on the JavaScript in the src folder. The HTML and CSS were developed by THINKFUL. 
 
 ## Where Can I See It?
-To view the page, please click this () link.
+To view the page, please click this LOCAL-LIBRARY(https://local-library-7nzp.onrender.com) link.
 
