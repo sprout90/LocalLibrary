@@ -2,6 +2,8 @@
 
 LocalLibrary is a JavaScript application developed as part of the Thinkful Software Engineering program. The project focuses on using higher-order functions and JavaScript array-processing techniques to analyze and transform library data.
 
+[View Live Application](https://local-library-7nzp.onrender.com)
+
 ## Application Overview
 
 The application provides statistics and information about a local library's books, authors, and member accounts.
