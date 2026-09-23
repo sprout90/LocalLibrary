@@ -1,15 +1,31 @@
 # LocalLibrary
- Local library website 
 
-## What is it?
-A web page that provides library stats on members, books, and authors.  
+LocalLibrary is a JavaScript application developed as part of the Thinkful Software Engineering program. The project focuses on using higher-order functions and JavaScript array-processing techniques to analyze and transform library data.
 
-## Why?
-The focus of this assignment was to demonstrate profiency in advanced JavaScript array, list handling and high order functions. I had a lot of fun with this exercise as I was able to stretch my mental muscle by assembling nested array commands -- very powerful stuff. 
+## Application Overview
 
-## My Focus
-My focus as a student has been purely on the JavaScript in the src folder. The HTML and CSS were developed by THINKFUL. 
+The application provides statistics and information about a local library's books, authors, and member accounts.
 
-## Where Can I See It?
-To view the page, please click this [LOCAL-LIBRARY](https://local-library-7nzp.onrender.com) link.
+The primary focus of my work was the JavaScript data-processing logic in `public/src`. The HTML, CSS, application data, and presentation framework were provided as part of the Thinkful project.
 
+## JavaScript Implementation
+
+The project demonstrates practical use of JavaScript techniques including:
+
+* `map()`, `reduce()`, `filter()`, `find()`, `some()`, and `every()`
+* Nested higher-order array operations
+* Sorting and limiting result sets
+* JavaScript `Set` for identifying unique values
+* Array and object destructuring
+* Transforming related book, author, account, and borrowing data
+* Working with one-to-many and nested data relationships
+
+The implemented functions calculate library statistics such as the most common genres, most popular books and authors, current borrowing activity, account borrowing history, and books currently held by individual members.
+
+## Thinkful Project Context
+
+Thinkful provided the application interface, CSS, source data, project requirements, and automated tests. My work focused on implementing the JavaScript functions in `public/src` that analyze the supplied data and produce the results displayed by the application.
+
+## Live Application
+
+A deployed version of the project is available through the repository's project link.
